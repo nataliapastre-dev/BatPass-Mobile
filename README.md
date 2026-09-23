@@ -1,56 +1,73 @@
-# Welcome to your Expo app 👋
+<div align="center">
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# 🦇 BatPass Mobile
 
-## Get started
+### Gerador de senhas seguras e personalizadas
 
-1. Install dependencies
+Projeto desenvolvido com **React Native + Expo + TypeScript**, transformando um desafio da **DIO** em uma aplicação completa para portfólio.
 
-   ```bash
-   npm install
-   ```
+<br>
 
-2. Start the app
+<img src="https://i.postimg.cc/FF88yf32/Bat-Pass-Mobile-github.png" alt="BatPass Mobile" width="100%">
 
-   ```bash
-   npx expo start
-   ```
+<br><br>
 
-In the output, you'll find options to open the app in a
+[![Testar Projeto](https://img.shields.io/badge/TESTAR_PROJETO-FFC107?style=for-the-badge&logo=render&logoColor=black)](https://batpass-mobile.onrender.com)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+</div>
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 💡 Sobre o projeto
 
-When you're ready, run:
+O **BatPass Mobile** é um gerador de senhas desenvolvido para criar combinações fortes e personalizadas de forma simples e rápida.
+
+O projeto nasceu a partir de um desafio da **DIO** e foi expandido com novas funcionalidades, identidade visual própria, melhorias de interface e publicação de uma versão web.
+
+A proposta foi ir além da entrega do desafio e transformá-lo em um projeto completo de portfólio.
+
+---
+
+## ✨ Funcionalidades
+
+- 🔐 Geração automática de senhas
+- 📏 Escolha do tamanho da senha
+- 🔠 Inclusão de letras maiúsculas
+- 🔡 Inclusão de letras minúsculas
+- 🔢 Inclusão de números
+- #️⃣ Inclusão de símbolos
+- 🛡️ Indicador de nível de segurança
+- 📋 Opção para copiar a senha gerada
+- ⚡ Geração instantânea de novas combinações
+- 📱 Interface responsiva para dispositivos móveis
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+</div>
+
+---
+
+## 🌐 Projeto online
+
+A versão web do BatPass está publicada no Render:
+
+👉 **https://batpass-mobile.onrender.com**
+
+> O primeiro carregamento pode levar alguns segundos devido ao serviço de hospedagem.
+
+---
+
+## 🚀 Executando o projeto
+
+Clone o repositório:
 
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-### Other setup steps
-
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+git clone https://github.com/nataliapastre-dev/BatPass-Mobile.git
