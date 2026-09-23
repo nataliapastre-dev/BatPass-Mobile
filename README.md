@@ -8,7 +8,7 @@ Projeto mobile desenvolvido com **React Native, Expo e TypeScript**.
 
 <br>
 
-<img src="https://i.postimg.cc/FF88yf32/Bat-Pass-Mobile-github.png" alt="BatPass Mobile" width="850">
+<img src="https://i.postimg.cc/9Fv2Q8Jn/Chat-GPT-Image-23-de-set-de-2026-19-53-49.png" alt="BatPass Mobile" width="700">
 
 <br><br>
 
