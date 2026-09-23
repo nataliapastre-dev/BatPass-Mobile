@@ -6,8 +6,9 @@
 
 Projeto mobile desenvolvido com **React Native, Expo e TypeScript**.
 
-<img src="https://i.postimg.cc/9Fv2Q8Jn/Chat-GPT-Image-23-de-set-de-2026-19-53-49.png" alt="BatPass Mobile" width="2000">
-<br> <br>
+<img src="https://i.postimg.cc/9Fv2Q8Jn/Chat-GPT-Image-23-de-set-de-2026-19-53-49.png" alt="BatPass Mobile" width="2500">
+
+<br><br>
 
 [![Testar Projeto](https://img.shields.io/badge/TESTAR_PROJETO-FFC107?style=for-the-badge&logo=render&logoColor=black)](https://batpass-mobile.onrender.com)
 
