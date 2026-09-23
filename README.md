@@ -4,11 +4,11 @@
 
 ### Gerador de senhas seguras e personalizadas
 
-Projeto desenvolvido com **React Native + Expo + TypeScript**, transformando um desafio da **DIO** em uma aplicação completa para portfólio.
+Projeto mobile desenvolvido com **React Native, Expo e TypeScript**.
 
 <br>
 
-<img src="https://i.postimg.cc/FF88yf32/Bat-Pass-Mobile-github.png" alt="BatPass Mobile" width="100%">
+<img src="https://i.postimg.cc/FF88yf32/Bat-Pass-Mobile-github.png" alt="BatPass Mobile" width="850">
 
 <br><br>
 
@@ -20,11 +20,11 @@ Projeto desenvolvido com **React Native + Expo + TypeScript**, transformando um 
 
 ## 💡 Sobre o projeto
 
-O **BatPass Mobile** é um gerador de senhas desenvolvido para criar combinações fortes e personalizadas de forma simples e rápida.
+O **BatPass Mobile** nasceu a partir de um desafio da **DIO** e evoluiu para um projeto de portfólio, com foco em desenvolvimento mobile, interface e experiência do usuário.
 
-O projeto nasceu a partir de um desafio da **DIO** e foi expandido com novas funcionalidades, identidade visual própria, melhorias de interface e publicação de uma versão web.
+A aplicação permite gerar **senhas fortes e personalizadas**, escolhendo o tamanho e os tipos de caracteres que farão parte da combinação. O usuário também pode acompanhar o nível de segurança da senha e copiar a combinação gerada.
 
-A proposta foi ir além da entrega do desafio e transformá-lo em um projeto completo de portfólio.
+Além da implementação das funcionalidades propostas no desafio, o projeto recebeu **identidade visual própria, melhorias de interface, responsividade e uma versão web publicada no Render**.
 
 ---
 
@@ -32,14 +32,13 @@ A proposta foi ir além da entrega do desafio e transformá-lo em um projeto com
 
 - 🔐 Geração automática de senhas
 - 📏 Escolha do tamanho da senha
-- 🔠 Inclusão de letras maiúsculas
-- 🔡 Inclusão de letras minúsculas
-- 🔢 Inclusão de números
-- #️⃣ Inclusão de símbolos
+- 🔠 Letras maiúsculas e minúsculas
+- 🔢 Números
+- #️⃣ Símbolos
 - 🛡️ Indicador de nível de segurança
-- 📋 Opção para copiar a senha gerada
+- 📋 Cópia da senha gerada
 - ⚡ Geração instantânea de novas combinações
-- 📱 Interface responsiva para dispositivos móveis
+- 📱 Interface responsiva
 
 ---
 
@@ -57,7 +56,7 @@ A proposta foi ir além da entrega do desafio e transformá-lo em um projeto com
 
 ## 🌐 Projeto online
 
-A versão web do BatPass está publicada no Render:
+A versão web do BatPass está disponível para teste:
 
 👉 **https://batpass-mobile.onrender.com**
 
